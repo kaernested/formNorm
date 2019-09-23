@@ -1,0 +1,3 @@
+Starta frammenda: opna terminal, fara í frontend möppu, skrifa yarn Starta
+
+Starta bakenda:  
